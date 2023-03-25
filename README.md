@@ -8,7 +8,7 @@ Linux, Apple &amp; Windows mac address change python scrip for python.
 
 - Open a terminal: To open a terminal, press ` Ctrl + Alt + T ` on your keyboard or open the terminal from your system's applications menu.
 - Navigate to the directory containing the script: Use the ` cd ` command to change to the directory where the script is located. For example, if the script is in the `/Mac-Change/mac_change/` directory, you can use the following command:
-> ` cd /home/user/scripts/ `
+> ` cd /Mac-Change/mac_change/ `
 - Make sure that the required Python packages are installed: The script may require specific Python packages to be installed. You can install these packages using the `
 pip ` command. For example, to install the ` subprocess ` package, you can use the following command:
 > ` pip install subprocess `
